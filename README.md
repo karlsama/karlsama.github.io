@@ -8,7 +8,7 @@
 - [学生成绩管理系统](./Java/学生成绩管理系统.md)
 
 ### 🛠️ 开发工具
-- [Cursor使用学习笔记](./cursor/cursor使用学习笔记.md)
+- [Cursor使用学习笔记](/cursor/cursor使用学习笔记.md)
 
 ### 🌐 计算机网络
 - TCP三次握手 - 计划中
