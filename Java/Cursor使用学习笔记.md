@@ -1,5 +1,4 @@
 # Cmd+K：选中代码让AI修改
-
 ## 基本用法
 1. 选中代码
 2. 按 `Cmd+K`（Windows用 `Ctrl+K`）
@@ -42,7 +41,7 @@ if (exists) {
     System.out.println("学号已存在！");
     return;
 }
-​```
+
 
 ## 总结：
 在给ai足够精细的描述之后，ai对于项目的完成度，精确度就越高。
